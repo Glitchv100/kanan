@@ -25,3 +25,7 @@ header{
 .nav-container i{
     font-size: 25px;
 }
+
+i {
+    cursor: pointer;
+}

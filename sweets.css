@@ -68,7 +68,12 @@ header{
 
 }
 .image img{
-    width: 150px;
-    height: 150%;
+    border: 1px solid gray;
+    width: 112px;
+    height: 133%;
     object-fit: cover;
+    border-radius: 12px;
+}
+i {
+    cursor: pointer;
 }
